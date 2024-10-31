@@ -34,8 +34,8 @@ class _HomeState extends State<Home> {
     new Contact("Boughnimi", "Anas", "26030811", "assets/images/avatar4.jpg"),
     new Contact("Boughnimi", "Amal", "26030811", "assets/images/avatar5.jpg"),
     new Contact("Boughnimi", "Habib", "26030811", "assets/images/avatar6.jpg"),
-    new Contact("Boughnimi", "Ahmed", "26030811", "assets/images/avatar7.gif"),
-    new Contact("Boughnimi", "Omar", "26030811", "assets/images/avatar8.jpg"),
+    new Contact("Boughnimi", "Mohamed Amine", "26030811", "assets/images/avatar7.gif"),
+    new Contact("Boughnimi", "Mohamed Amine", "26030811", "assets/images/avatar8.jpg"),
   ];
   showAlertDialog(BuildContext context, String message){
     Widget cancelButton = TextButton(child: Text("Cancel"),onPressed: () {},
