@@ -67,7 +67,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Flutter ListView"),
+        title: Text("Contacts"),
       ),
       body: ListView.builder(itemBuilder: (context, index) {
         return Card(
